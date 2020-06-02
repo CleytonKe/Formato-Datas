@@ -1,4 +1,4 @@
-Saida Exemplo:
+Saída Exemplo:
 
     ~ Data Hora Completa ~
     30/05/2020 10:07:46
